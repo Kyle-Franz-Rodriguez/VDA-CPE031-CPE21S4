@@ -1,0 +1,16 @@
+Column_No,Variables,No_of_rows,Data_type,Observation
+0,Year,9999,integer,Integer data that states the time the data was recorded
+1,Country,9999,string,A string that dictates the place the data was recorded
+2,Region,9999,string,A string data type that states the region of the previous data which is the country
+3,Crop_type,9999,string,A string data that state the specific crop name
+4,Average_Temperature_C,9999,float,A 2-decimal float which describes the temperature the crop grow in celsius
+5,Total_Precipitation_mm,9999,float,A 2-decimal float that states the flux water equivalent that reaches land surface in millimeter
+6,CO2_Emissions_MT,9999,float,A 2-decimal float that tells the amount of greenhouse gases in metric tons
+7,Crop_Yield_MT_per_HA,9999,float,A 2-decimal float which tells the number of crop yield in metric tons per hectare
+8,Extreme_Weather_Events,9999,integer,An integer that dictates the number of extreme weather events
+9,Irrigation_Access_%,9999,float,A 2-decimal float which states the percentage of the irrigation access
+10,Pesticide_Use_KG_per_HA,9999,float,A 2-decimal float which dictates the pesticide use in kilogram per hectare
+11,Fertilizer_Use_KG_per_HA,9999,float,A 2-decimal float that tells the amount of fertilizer use in kilograms per hectare
+12,Soil_Health_Index,9999,float,A 2-decimal float that has the number of the soil health index
+13,Adaptation_Strategies,9999,string,The strategy the crop was harvested
+14,Economic_Impact_Million_USD,9999,float,A 2-decimal float that tells the economic impact calculated in million US dollars
